@@ -1,0 +1,1 @@
+Follow the steps to configure Splunk to receive logs from Wazuh and ELK.
